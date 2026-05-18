@@ -6,7 +6,7 @@ name : Nginx + Node + React Deployment
 on :
     push :
         branches : ['master']
-    workflow_dispatch : 
+
 
 # 3. 업무 메뉴얼을 더 작은 단위로 쪼개서, 해야할 일을 작성
 jobs:
